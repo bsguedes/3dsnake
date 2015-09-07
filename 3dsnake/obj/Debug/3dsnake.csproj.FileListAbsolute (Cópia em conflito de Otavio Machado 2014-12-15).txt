@@ -1,0 +1,2 @@
+C:\Users\otavio.machado\Dropbox\3dsnake\3dsnake\bin\Debug\3dsnake.exe.config
+C:\Users\otavio.machado\Dropbox\3dsnake\3dsnake\obj\Debug\3dsnake.exe
